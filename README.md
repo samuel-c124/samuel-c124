@@ -18,6 +18,7 @@ energía renovable.
 - NumPy
 - SQL
 - Excel
+- Visual Studio Code
 - AutoCAD
 - PowerFactory
 
