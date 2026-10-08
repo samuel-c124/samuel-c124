@@ -1,16 +1,35 @@
 ## Hi there 👋
+# Samuel Canul
 
-<!--
-**samuel-c124/samuel-c124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniería en Energías Renovables
 
-Here are some ideas to get you started:
+Python | Data Analysis | Energy Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+
+Estudiante de Ingeniería en Energías Renovables interesado en
+el análisis de datos, sistemas eléctricos y tecnologías de
+energía renovable.
+
+## Tecnologías
+
+- Python
+- Pandas
+- NumPy
+- SQL
+- Excel
+- AutoCAD
+- PowerFactory
+
+## Proyectos
+
+### Análisis de nodos SNI de energía
+
+Análisis de datos públicos de distribución nodal del sistema
+eléctrico mexicano utilizando Python y pandas.
+
+## Contacto
+
+LinkedIn: www.linkedin.com/in/samuel-canul
+
+
